@@ -16,7 +16,6 @@
 *  어떤 부분에서 고민을 했고 이렇게 구현했다.
 
 ### ERD
-* ###### 데이터베이스에서 사용된 입니다.
 ![ERD](https://user-images.githubusercontent.com/49363880/103601697-8fe29780-4f4d-11eb-9305-a79b6d3b5059.jpg)
 
 ### CONTACT
