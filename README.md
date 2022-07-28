@@ -13,7 +13,7 @@
 *  어떤 부분에서 고민을 했고 이렇게 구현했다.
 
 ### ERD
-![ERD](https://user-images.githubusercontent.com/49363880/181416280-680badfd-c910-45ed-97c7-59a6682dc2c3.JPG)
+![ERD](https://user-images.githubusercontent.com/49363880/181417239-2bd53605-6fc7-4cab-b43a-30f326758c63.PNG)
 
 ### 연락
 * 41011916
