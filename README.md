@@ -1,4 +1,5 @@
-## BrandedCompany(컴퓨터 부품 무역)
+## BrandedCompany
+* 컴퓨터 부품을 무역하는 회사 홈페이지
 
 ### 화면 정의서
 *  문서 링크
