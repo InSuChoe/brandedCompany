@@ -16,7 +16,9 @@
 *  어떤 부분에서 고민을 했고 이렇게 구현했다.
 
 ### ERD
-![ERD](https://user-images.githubusercontent.com/49363880/103601697-8fe29780-4f4d-11eb-9305-a79b6d3b5059.jpg)
+![ERD](https://user-images.githubusercontent.com/49363880/181416280-680badfd-c910-45ed-97c7-59a6682dc2c3.JPG)
 
-### CONTACT
-* 연락처, 
+### 연락
+* 41011916
+### 이메일
+* cis940320@gmail.com
