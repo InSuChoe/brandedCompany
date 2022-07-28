@@ -1,6 +1,5 @@
-## BrandedCompany
-### 컴퓨터 자재/부품 무역
-<hr/>
+## BrandedCompany(컴퓨터 자재/부품 무역)
+
 ### 화면 정의서
 *  문서 링크
 
