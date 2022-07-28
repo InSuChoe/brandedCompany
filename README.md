@@ -32,8 +32,7 @@
 * logj4j2 api - 프로그램 로그 관리
 * lombok - Getter,Setter,toString 지원
 
-
-# 개발자
+### 개발자
 * 최인수
 
 ### 발생한 이슈와 해결방법?해결과정?
