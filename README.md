@@ -28,7 +28,6 @@
 * commons-codec 1.15 - 이미지 Base64 변환
 * jackson-datatype-jsr310 2.13.2 - 데이터 직렬화,역직렬화
 * spring-validation 2.0.1 - 로그인 인증기, 동시 접속 차단기, 요청 URL 검사기
-* spring-test - 스프링 테스트
 * logj4j2 api - 프로그램 로그 관리
 * lombok - Getter,Setter,toString 지원
 
